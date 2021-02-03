@@ -7,4 +7,5 @@ Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de
 * [State](https://refactoring.guru/design-patterns/state)
 * [Command](https://refactoring.guru/design-patterns/command)
 * [Observer](https://refactoring.guru/design-patterns/observer)
-
+* [Adapter](https://refactoring.guru/design-patterns/adapter)
+* [Decoretor](https://refactoring.guru/design-patterns/decorator)
