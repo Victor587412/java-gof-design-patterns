@@ -1,2 +1,7 @@
-# java-gof-design-patterns
-Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos) 
+# Design Patterns em Java
+Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos) neste projeto foi aplicado os seguintes padrões de projeto 
+
+* [Strategy](https://refactoring.guru/design-patterns/strategy)
+* [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
+* [Template Method](https://refactoring.guru/design-patterns/template-method)
+
