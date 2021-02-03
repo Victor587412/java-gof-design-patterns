@@ -5,4 +5,5 @@ Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de
 * [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
 * [Template Method](https://refactoring.guru/design-patterns/template-method)
 * [State](https://refactoring.guru/design-patterns/state)
+* [Command](https://refactoring.guru/design-patterns/command)
 
