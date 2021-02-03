@@ -10,3 +10,4 @@ Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de
 * [Adapter](https://refactoring.guru/design-patterns/adapter)
 * [Decoretor](https://refactoring.guru/design-patterns/decorator)
 * [Composite](https://refactoring.guru/design-patterns/composite)
+* [Proxy](https://refactoring.guru/design-patterns/proxy)
