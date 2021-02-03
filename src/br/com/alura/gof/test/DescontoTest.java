@@ -8,9 +8,9 @@ import java.math.BigDecimal;
 public class DescontoTest {
 
     public static void main(String[] args) {
-        Orcamento primeiro = new Orcamento(new BigDecimal("200"), 6);
-        Orcamento segundo = new Orcamento(new BigDecimal("1000"), 2);
-        Orcamento terceiro = new Orcamento(new BigDecimal("500"), 1);
+        Orcamento primeiro = new Orcamento();
+        Orcamento segundo = new Orcamento();
+        Orcamento terceiro = new Orcamento();
 
         CalculadoraDeDesconto calculadora = new CalculadoraDeDesconto();
         System.out.println(calculadora.calcular(primeiro));

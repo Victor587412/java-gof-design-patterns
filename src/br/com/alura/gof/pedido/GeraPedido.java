@@ -25,7 +25,7 @@ public class GeraPedido {
     }
 
     public void executa(){
-        Orcamento orcamento = new Orcamento(valorOrcamento,quantidadeItens);
+        Orcamento orcamento = new Orcamento();
         Pedido pedido = new Pedido(this.cliente, LocalDateTime.now(), orcamento);
 
         acoes.forEach(acaoAposGerarPedido -> acaoAposGerarPedido.executar(pedido));

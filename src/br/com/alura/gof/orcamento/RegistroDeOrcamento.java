@@ -22,7 +22,6 @@ public class RegistroDeOrcamento {
         String url = "http://apiexterna.com.br";
         Map<String, Object> values = new HashMap<>();
         values.put("valor", orcamento.getValor());
-        values.put("quantidadeItens", orcamento.getQuantidadeItens());
 
         http.post(url, values);
     }

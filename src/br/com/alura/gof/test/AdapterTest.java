@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 public class AdapterTest {
 
     public static void main(String[] args) {
-        Orcamento orcamento = new Orcamento(new BigDecimal("1000"), 100);
+        Orcamento orcamento = new Orcamento();
         orcamento.aprovar();
 
         RegistroDeOrcamento registroDeOrcamento = new RegistroDeOrcamento(new JavaHttpClient());
