@@ -6,4 +6,5 @@ Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de
 * [Template Method](https://refactoring.guru/design-patterns/template-method)
 * [State](https://refactoring.guru/design-patterns/state)
 * [Command](https://refactoring.guru/design-patterns/command)
+* [Observer](https://refactoring.guru/design-patterns/observer)
 
