@@ -1,0 +1,24 @@
+package br.com.alura.gof.desconto;
+
+import br.com.alura.gof.model.Orcamento;
+
+import java.math.BigDecimal;
+
+public abstract class Desconto {
+
+    protected Desconto proximo;
+
+    public Desconto(Desconto desconto) {
+        this.proximo = desconto;
+    }
+
+    public BigDecimal calcular(Orcamento orcamento){
+        if(deveAplicar(orcamento)){
+            return efetuarCalculo(orcamento);
+        }
+        return proximo.calcular(orcamento);
+    }
+
+    protected abstract BigDecimal efetuarCalculo(Orcamento orcamento);
+    protected abstract boolean deveAplicar(Orcamento orcamento);
+}
