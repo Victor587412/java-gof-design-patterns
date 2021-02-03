@@ -1,6 +1,6 @@
 # Design Patterns em Java
 Projeto em java aprendendo os padrões de projeto com base no livro (Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos) neste projeto foi aplicado os seguintes padrões de projeto 
-##O projeto foi criado seguindo exemplos dos cursos 
+## O projeto foi criado seguindo exemplos dos cursos 
 ### Design Patterns em Java I: Introdução às boas práticas de programação
 [Certificado de conclusão](https://cursos.alura.com.br/certificate/f7ab20a4-0c19-4d6e-be9b-eed0e862de75)
 ### Design Patterns em Java II: Avançando nas boas práticas de programação
